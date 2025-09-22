@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\Desktop\\Exploresv\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{777EBAD1-9466-4BA9-B5A9-2A386335F0A4}|Exploresv\\Exploresv.csproj|c:\\users\\daniel\\desktop\\exploresv\\exploresv\\migrations\\20250917222718_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777EBAD1-9466-4BA9-B5A9-2A386335F0A4}|Exploresv\\Exploresv.csproj|solutionrelative:exploresv\\migrations\\20250917222718_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777EBAD1-9466-4BA9-B5A9-2A386335F0A4}|Exploresv\\Exploresv.csproj|c:\\users\\daniel\\desktop\\exploresv\\exploresv\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{777EBAD1-9466-4BA9-B5A9-2A386335F0A4}|Exploresv\\Exploresv.csproj|solutionrelative:exploresv\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777EBAD1-9466-4BA9-B5A9-2A386335F0A4}|Exploresv\\Exploresv.csproj|c:\\users\\daniel\\desktop\\exploresv\\exploresv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777EBAD1-9466-4BA9-B5A9-2A386335F0A4}|Exploresv\\Exploresv.csproj|solutionrelative:exploresv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777EBAD1-9466-4BA9-B5A9-2A386335F0A4}|Exploresv\\Exploresv.csproj|c:\\users\\daniel\\desktop\\exploresv\\exploresv\\data\\exploredb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777EBAD1-9466-4BA9-B5A9-2A386335F0A4}|Exploresv\\Exploresv.csproj|solutionrelative:exploresv\\data\\exploredb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777EBAD1-9466-4BA9-B5A9-2A386335F0A4}|Exploresv\\Exploresv.csproj|c:\\users\\daniel\\desktop\\exploresv\\exploresv\\models\\touristdestination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777EBAD1-9466-4BA9-B5A9-2A386335F0A4}|Exploresv\\Exploresv.csproj|solutionrelative:exploresv\\models\\touristdestination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777EBAD1-9466-4BA9-B5A9-2A386335F0A4}|Exploresv\\Exploresv.csproj|c:\\users\\daniel\\desktop\\exploresv\\exploresv\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777EBAD1-9466-4BA9-B5A9-2A386335F0A4}|Exploresv\\Exploresv.csproj|solutionrelative:exploresv\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777EBAD1-9466-4BA9-B5A9-2A386335F0A4}|Exploresv\\Exploresv.csproj|c:\\users\\daniel\\desktop\\exploresv\\exploresv\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777EBAD1-9466-4BA9-B5A9-2A386335F0A4}|Exploresv\\Exploresv.csproj|solutionrelative:exploresv\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777EBAD1-9466-4BA9-B5A9-2A386335F0A4}|Exploresv\\Exploresv.csproj|c:\\users\\daniel\\desktop\\exploresv\\exploresv\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777EBAD1-9466-4BA9-B5A9-2A386335F0A4}|Exploresv\\Exploresv.csproj|solutionrelative:exploresv\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777EBAD1-9466-4BA9-B5A9-2A386335F0A4}|Exploresv\\Exploresv.csproj|c:\\users\\daniel\\desktop\\exploresv\\exploresv\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777EBAD1-9466-4BA9-B5A9-2A386335F0A4}|Exploresv\\Exploresv.csproj|solutionrelative:exploresv\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777EBAD1-9466-4BA9-B5A9-2A386335F0A4}|Exploresv\\Exploresv.csproj|c:\\users\\daniel\\desktop\\exploresv\\exploresv\\models\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777EBAD1-9466-4BA9-B5A9-2A386335F0A4}|Exploresv\\Exploresv.csproj|solutionrelative:exploresv\\models\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777EBAD1-9466-4BA9-B5A9-2A386335F0A4}|Exploresv\\Exploresv.csproj|c:\\users\\daniel\\desktop\\exploresv\\exploresv\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777EBAD1-9466-4BA9-B5A9-2A386335F0A4}|Exploresv\\Exploresv.csproj|solutionrelative:exploresv\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777EBAD1-9466-4BA9-B5A9-2A386335F0A4}|Exploresv\\Exploresv.csproj|c:\\users\\daniel\\desktop\\exploresv\\exploresv\\models\\departament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777EBAD1-9466-4BA9-B5A9-2A386335F0A4}|Exploresv\\Exploresv.csproj|solutionrelative:exploresv\\models\\departament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777EBAD1-9466-4BA9-B5A9-2A386335F0A4}|Exploresv\\Exploresv.csproj|c:\\users\\daniel\\desktop\\exploresv\\exploresv\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777EBAD1-9466-4BA9-B5A9-2A386335F0A4}|Exploresv\\Exploresv.csproj|solutionrelative:exploresv\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777EBAD1-9466-4BA9-B5A9-2A386335F0A4}|Exploresv\\Exploresv.csproj|c:\\users\\daniel\\desktop\\exploresv\\exploresv\\exploresv.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{777EBAD1-9466-4BA9-B5A9-2A386335F0A4}|Exploresv\\Exploresv.csproj|solutionrelative:exploresv\\exploresv.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250917222718_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Exploresv\\Exploresv\\Migrations\\20250917222718_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Exploresv\\Migrations\\20250917222718_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Exploresv\\Exploresv\\Migrations\\20250917222718_InitialCreate.cs",
+              "RelativeToolTip": "Exploresv\\Migrations\\20250917222718_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T22:27:19.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Exploresv\\Exploresv\\appsettings.json",
+              "RelativeDocumentMoniker": "Exploresv\\appsettings.json",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Exploresv\\Exploresv\\appsettings.json",
+              "RelativeToolTip": "Exploresv\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-17T22:23:50.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Exploresv\\Exploresv\\Program.cs",
+              "RelativeDocumentMoniker": "Exploresv\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Exploresv\\Exploresv\\Program.cs",
+              "RelativeToolTip": "Exploresv\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T22:21:04.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExploreDb.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Exploresv\\Exploresv\\Data\\ExploreDb.cs",
+              "RelativeDocumentMoniker": "Exploresv\\Data\\ExploreDb.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Exploresv\\Exploresv\\Data\\ExploreDb.cs",
+              "RelativeToolTip": "Exploresv\\Data\\ExploreDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T21:37:57.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Exploresv\\Exploresv\\Models\\Image.cs",
+              "RelativeDocumentMoniker": "Exploresv\\Models\\Image.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Exploresv\\Exploresv\\Models\\Image.cs",
+              "RelativeToolTip": "Exploresv\\Models\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T20:00:59.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Exploresv\\Exploresv\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Exploresv\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Exploresv\\Exploresv\\Models\\User.cs",
+              "RelativeToolTip": "Exploresv\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T19:54:24.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Exploresv\\Exploresv\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Exploresv\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Exploresv\\Exploresv\\Models\\Role.cs",
+              "RelativeToolTip": "Exploresv\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T20:00:19.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TouristDestination.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Exploresv\\Exploresv\\Models\\TouristDestination.cs",
+              "RelativeDocumentMoniker": "Exploresv\\Models\\TouristDestination.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Exploresv\\Exploresv\\Models\\TouristDestination.cs",
+              "RelativeToolTip": "Exploresv\\Models\\TouristDestination.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T19:58:11.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Favorite.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Exploresv\\Exploresv\\Models\\Favorite.cs",
+              "RelativeDocumentMoniker": "Exploresv\\Models\\Favorite.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Exploresv\\Exploresv\\Models\\Favorite.cs",
+              "RelativeToolTip": "Exploresv\\Models\\Favorite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T19:55:10.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Exploresv\\Exploresv\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Exploresv\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Exploresv\\Exploresv\\Models\\Event.cs",
+              "RelativeToolTip": "Exploresv\\Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T19:54:07.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Exploresv\\Exploresv\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Exploresv\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Exploresv\\Exploresv\\Models\\Category.cs",
+              "RelativeToolTip": "Exploresv\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T19:53:44.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Departament.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Exploresv\\Exploresv\\Models\\Departament.cs",
+              "RelativeDocumentMoniker": "Exploresv\\Models\\Departament.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Exploresv\\Exploresv\\Models\\Departament.cs",
+              "RelativeToolTip": "Exploresv\\Models\\Departament.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T19:53:13.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Exploresv\\Exploresv\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "Exploresv\\Models\\Status.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Exploresv\\Exploresv\\Models\\Status.cs",
+              "RelativeToolTip": "Exploresv\\Models\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T19:52:43.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Exploresv.csproj",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Exploresv\\Exploresv\\Exploresv.csproj",
+              "RelativeDocumentMoniker": "Exploresv\\Exploresv.csproj",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Exploresv\\Exploresv\\Exploresv.csproj",
+              "RelativeToolTip": "Exploresv\\Exploresv.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-17T19:47:50.87Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
