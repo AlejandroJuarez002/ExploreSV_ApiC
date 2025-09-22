@@ -1,0 +1,6 @@
+@Exploresv_HostAddress = http://localhost:5155
+
+GET {{Exploresv_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
